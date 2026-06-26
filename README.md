@@ -4,6 +4,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Python+Developer;Machine+Learning+Enthusiast;Software+Developer;Data+Analytics+Learner;Open+to+Software+Engineering+Opportunities" />
 </p>
 
+## 👩‍💻 About Me
+
+- 🎓 Final Year B.E. Computer Science Engineering Student
+- 💻 Interested in Software Development, Machine Learning, and Data Analytics
+- 🌱 Currently strengthening my Python, DSA, SQL, and Full Stack Development skills
+- 🚀 Building real-world projects to improve problem-solving and development experience
+- 🎯 Goal: To begin my career as a Software Engineer while continuously learning and growing
+
 <h3 align="center">
 Final Year B.E. Computer Science Engineering Student | Python Developer | Machine Learning Enthusiast
 </h3>
