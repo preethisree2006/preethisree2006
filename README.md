@@ -43,9 +43,11 @@
 </p>
 
 ### AI / Machine Learning:
+<p>
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=plastic"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white"/>
+</p>
 
 ### Database:
 <p>
