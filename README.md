@@ -12,6 +12,14 @@
 - 🚀 Building real-world projects to improve problem-solving and development experience
 - 🎯 Goal: To begin my career as a Software Engineer while continuously learning and growing
 
+## 🛠 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,mysql,git,github,vscode,tensorflow&theme=dark"/>
+
+</p>
+
 <h3 align="center">
 Final Year B.E. Computer Science Engineering Student | Python Developer | Machine Learning Enthusiast
 </h3>
