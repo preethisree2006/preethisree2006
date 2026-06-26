@@ -103,6 +103,40 @@
 
 </p>
 
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🔐 SentinelAI | Real-time predictive security intelligence system built during Hack Fusion 1.0 | Python, YOLOv8, FastAPI, Streamlit |
+| 🪐 Exoplanet Classification | Machine Learning model to classify exoplanets using NASA Kepler dataset | Python, TensorFlow |
+| ✍️ Handwritten Digit Recognition | MNIST handwritten digit classification | TensorFlow |
+
+## 📜 Certifications
+
+- Oracle Cloud Infrastructure 2025 – Data Science Professional
+- NPTEL – Introduction to Machine Learning, Cloud Computing, Internet of Things
+- Tata Forage – GenAI Powered Data Analytics
+
+## 🏆 Achievements
+
+🏅 Global Rank **2235** – TCS CodeVita Season 13
+
+🥇 Best Academic Performer (2023–2024)
+
+♟ Runner-Up – College Chess Tournament 2026
+
+## 💼 Experience
+
+### Web Development Intern
+**Ziga Infotech Ventures Pvt. Ltd.**
+
+- Built Typing Speed Tester
+- Student Mark Manager
+- Expense Tracker
+- Python Tkinter GPA Calculator
+
+---
+
 ## 🔥 Contribution Streak
 
 <p align="center">
@@ -117,4 +151,10 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=preethisree2006&theme=tokyonight&margin-w=15"/>
 
+</p>
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=preethisree2006&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
 </p>
