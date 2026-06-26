@@ -26,54 +26,40 @@
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### Languages & Programming:
-<p>
+**Languages & Programming:**<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-B07219?style=plastic&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black"/>
-</p>
 
-### Web Development:
-<p>
+**Web Development:**<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/>
-</p>
 
-### AI / Machine Learning:
-<p>
+**AI / Machine Learning:**<br>
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=plastic"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white"/>
-</p>
 
-### Database:
-<p>
+**Database:**<br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
-</p>
 
-### Tools & Platforms:
-<p>
+**Tools & Platforms:**<br>
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Antigravity-6C63FF?style=plastic"/>
-</p>
 
-### Design:
-<p>
+**Design:**<br>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white"/>
-</p>
 
-### Currently Learning:
-<p>
+**Currently Learning:**<br>
 <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=plastic"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=plastic&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full%20Stack%20Development-4CAF50?style=plastic"/>
-</p>
+<img src="https://img.shields.io/badge/Full%20Stack-4CAF50?style=plastic"/>
 ---
 
 ## 📫 Connect With Me
