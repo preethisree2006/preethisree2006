@@ -26,25 +26,54 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-**👨‍💻 Programming Languages**<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Java-B07219?style=flat-square&logo=openjdk&logoColor=white"/>
+### Languages & Programming:
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-B07219?style=plastic&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black"/>
+</p>
 
-**🌐 Web Development**<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+### Web Development:
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/>
+</p>
 
-**🤖 AI & Machine Learning**<br>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+### AI / Machine Learning:
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=plastic"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white"/>
+</p>
 
-**🗄️ Database**<br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+### Database:
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
+</p>
 
-**🧰 Tools & Platforms**<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Antigravity-7C3AED?style=flat-square"/>
+### Tools & Platforms:
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Antigravity-6C63FF?style=plastic"/>
+</p>
 
-**📚 Currently Learning**<br>
-<img src="https://img.shields.io/badge/DSA-00599C?style=flat-square"/> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Full%20Stack-4CAF50?style=flat-square"/>
+### Design:
+<p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white"/>
+</p>
+
+### Currently Learning:
+<p>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=plastic"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=plastic&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-4CAF50?style=plastic"/>
+</p>
 ---
 
 ## 📫 Connect With Me
