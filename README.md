@@ -82,6 +82,7 @@
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
+
 </p>
 
 ---
@@ -89,5 +90,31 @@
 <p align="center">
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+</p>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=preethisree2006&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethisree2006&layout=compact&theme=tokyonight"/>
+
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=preethisree2006&theme=tokyonight"/>
+
+</p>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=preethisree2006&theme=tokyonight&margin-w=15"/>
 
 </p>
