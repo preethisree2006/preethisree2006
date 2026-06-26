@@ -6,11 +6,27 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Final Year B.E. Computer Science Engineering Student
-- 💻 Interested in Software Development, Machine Learning, and Data Analytics
-- 🌱 Currently strengthening my Python, DSA, SQL, and Full Stack Development skills
-- 🚀 Building real-world projects to improve problem-solving and development experience
-- 🎯 Goal: To begin my career as a Software Engineer while continuously learning and growing
+🎓 Final Year **B.E. Computer Science Engineering** student with a strong interest in **Software Development, Python, and Machine Learning**.
+
+💡 I enjoy building practical projects, improving my problem-solving skills, and exploring technologies that solve real-world challenges.
+
+🌱 Currently focused on strengthening my skills in **Python, Data Structures & Algorithms, SQL, and Full Stack Development** to become placement-ready.
+
+🚀 Passionate about continuous learning and excited to contribute as a **Software Engineer** while growing in AI and modern software technologies.
+
+<p align="center">
+<a href="https://preethisree2006.github.io/">
+<img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-8A2BE2?style=for-the-badge"/>
+</a>
+</p>
+
+<h3 align="center">
+Final Year B.E. Computer Science Engineering Student | Python Developer | Machine Learning Enthusiast
+</h3>
+
+<p align="center">
+Passionate about building intelligent software solutions, strengthening my programming skills, and continuously learning modern technologies to prepare for software engineering and AI careers.
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -52,18 +68,4 @@
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Full%20Stack%20Development-6DB33F?style=for-the-badge"/>
-</p>
-
-<h3 align="center">
-Final Year B.E. Computer Science Engineering Student | Python Developer | Machine Learning Enthusiast
-</h3>
-
-<p align="center">
-Passionate about building intelligent software solutions, strengthening my programming skills, and continuously learning modern technologies to prepare for software engineering and AI careers.
-</p>
-
-<p align="center">
-<a href="https://preethisree2006.github.io/">
-<img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-8A2BE2?style=for-the-badge"/>
-</a>
 </p>
