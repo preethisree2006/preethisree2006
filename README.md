@@ -12,12 +12,46 @@
 - 🚀 Building real-world projects to improve problem-solving and development experience
 - 🎯 Goal: To begin my career as a Software Engineer while continuously learning and growing
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="left">
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,mysql,git,github,vscode,tensorflow&theme=dark"/>
+### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
+### 🤖 AI / Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+### 📚 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-6DB33F?style=for-the-badge"/>
 </p>
 
 <h3 align="center">
