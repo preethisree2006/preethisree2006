@@ -9,7 +9,7 @@ Passionate about building intelligent software solutions, strengthening my progr
 </p>
 
 <p align="center">
-  <a href="https://preethisree2006.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+<a href="https://preethisree2006.github.io/">
+<img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-8A2BE2?style=for-the-badge"/>
+</a>
 </p>
