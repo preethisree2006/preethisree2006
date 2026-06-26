@@ -91,9 +91,7 @@ Developed practical desktop and web-based applications while strengthening Pytho
 ## 📜 Certifications
 
 - ☁️ Oracle Cloud Infrastructure 2025 – Data Science Professional
-- 🎓 NPTEL – Introduction to Machine Learning
-- 🌐 NPTEL – Cloud Computing
-- 📡 NPTEL – Internet of Things (82%)
+- 🎓 NPTEL – Introduction to Machine Learning, Cloud Computing, Internet of Things
 - 📊 Tata Forage – GenAI Powered Data Analytics
 
 ---
@@ -103,9 +101,6 @@ Developed practical desktop and web-based applications while strengthening Pytho
 - 🏅 Global Rank **2235** – TCS CodeVita Season 13
 - 🥇 Best Academic Performer (2023–2024)
 - ♟ Runner-Up – College Chess Tournament 2026
-- 💻 Participant – Hack Fusion 1.0 National Hackathon
-- 🎖️ Active participant in technical symposiums and coding competitions
-
 ---
 
 ## 📫 Connect With Me
