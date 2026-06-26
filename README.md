@@ -152,14 +152,6 @@ Developed practical desktop and web-based applications while strengthening Pytho
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=preethisree2006&theme=tokyonight&margin-w=15&margin-h=15"/>
-</p>
-
----
-
 ## 👀 Profile Views
 
 <p align="center">
