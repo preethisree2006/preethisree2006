@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Preethi Sree K</h1>
 
-<!--
-**preethisree2006/preethisree2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Final Year B.E. Computer Science Engineering Student | Python Developer | Machine Learning Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about building intelligent software solutions, strengthening my programming skills, and continuously learning modern technologies to prepare for software engineering and AI careers.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://preethisree2006.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-blue?style=for-the-badge" />
+  </a>
+</p>
