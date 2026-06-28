@@ -67,6 +67,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| 🎓 **Academic Dashboard** | Web-based academic tracking portal with login authentication, GPA/CGPA calculator, and responsive student dashboard. | HTML, CSS, JavaScript, Firebase, GitHub, Vercel |
 | 🔐 **SentinelAI** | Real-time predictive security intelligence framework developed during Hack Fusion 1.0 | Python, YOLOv8, ByteTrack, FastAPI, Streamlit |
 | 🪐 **Exoplanet Classification** | Machine Learning model for classifying exoplanets using NASA Kepler dataset | Python, TensorFlow |
 | ✍️ **Handwritten Digit Recognition** | Deep learning model for handwritten digit classification (MNIST) | Python, TensorFlow |
